@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1562219422 source:c:\users\rodrigo\documents\github\programa_de_teste\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+	<conio.h>
+
+1562219088 source:c:\users\rodrigo\documents\github\programa_de_teste\main2.c
+
