@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560400542 source:c:\users\rodrigo\onedrive\documentos\workspace\fila\main.c
+	<stdio.h>
+	<conio.h>
+	"filavet.h"
+
+1560399562 source:c:\users\rodrigo\onedrive\documentos\workspace\fila\filavet.c
+	"filavet.h"
+
+1560396420 c:\users\rodrigo\onedrive\documentos\workspace\fila\filavet.h
+
